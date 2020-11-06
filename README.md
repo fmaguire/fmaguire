@@ -1,4 +1,4 @@
-![Finlay Maguire's github stats](https://github-readme-stats.vercel.app/api?username=fmaguire&count_private=true&?theme=solarized-dark&show_icons=true)
+![Finlay Maguire's github stats](https://github-readme-stats.vercel.app/api?username=fmaguire&count_private=true&?theme=solarized-dark)
 
 From [anuraghazra's](https://github.com/anuraghazra) [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) project.
 
